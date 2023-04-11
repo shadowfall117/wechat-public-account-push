@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '9d14609980bad97155446358c4b5bad2',
 
   PROVINCE: "",
-  CITY: "沙坪坝区",
+  CITY: "重庆",
 
   USERS: [
     {
@@ -44,7 +44,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-12-01' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-12-01' },
+        { keyword: '', date: '' },
       ],
     },
   ],

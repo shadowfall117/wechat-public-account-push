@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '9d14609980bad97155446358c4b5bad2',
 
   PROVINCE: "",
-  CITY: "重庆",
+  CITY: "沙坪坝区",
 
   USERS: [
     {
@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '2000', date: '08-30',
+          type: '', name: '', year: '', date: '',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
